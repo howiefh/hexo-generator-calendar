@@ -4,8 +4,7 @@
   "description": "Calendar generator for hexo",
   "main": "index",
   "scripts": {
-    "eslint": "eslint .",
-    "jscs": "jscs ."
+    "eslint": "eslint ."
   },
   "directories": {
     "lib": "./lib"
@@ -27,10 +26,8 @@
   "license": "MIT",
   "readmeFilename": "README.md",
   "devDependencies": {
-    "eslint": "^2.8.0",
-    "eslint-config-hexo": "^1.0.3",
-    "jscs": "^3.0.3",
-    "jscs-preset-hexo": "^1.0.1"
+    "eslint": "^6.0.1",
+    "eslint-config-hexo": "^4.0.0"
   },
   "dependencies": {
     "object-assign": "^4.0.1"
